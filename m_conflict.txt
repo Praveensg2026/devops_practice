@@ -1,0 +1,2 @@
+merge conflict example
+code with line1 added
