@@ -1,0 +1,2 @@
+example for merge conflict 
+and this line is added from my local system
